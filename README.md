@@ -1,4 +1,4 @@
-# SIL for Arbitrum
+# Structural Intelligence Layer (SIL) for Arbitrum
 
 **SIL — Structural Intelligence Layer**
 
