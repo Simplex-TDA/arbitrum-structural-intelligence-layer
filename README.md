@@ -258,7 +258,7 @@ The project investigated persistent-homology-based representations of Ethereum a
 
 This work established the underlying research pipeline for transforming blockchain activity into topological representations and provided the foundation for the SIL approach.
 
-**Repository:** [ETH Anomaly Detection](LINK)
+**Repository:** [ETH Anomaly Detection](https://github.com/Simplex-TDA/ETH-Anomaly-Detection/)
 
 ---
 
@@ -270,7 +270,7 @@ Topological features were evaluated using supervised machine-learning models aga
 
 The results provided evidence that topology-derived features contain predictive information beyond what is captured by simple transaction-level statistics.
 
-**Repository:** [Predictive Validation](LINK)
+**Repository:** [Predictive Validation](https://github.com/Simplex-TDA/ETH-Anomaly-Detection/tree/main/predictive-validation)
 
 ---
 
@@ -282,7 +282,7 @@ Using labeled Ethereum transaction data and public mempool observations, the res
 
 The experiments provided further evidence that transaction topology contains information relevant to identifying complex behavioral patterns.
 
-**Repository:** [MEV Detection](LINK)
+**Repository:** [MEV Detection](https://github.com/Simplex-TDA/MEV-Detection)
 
 ---
 
@@ -292,7 +292,7 @@ The broader theoretical and empirical work underlying SIL is also being develope
 
 The paper formalizes the use of topological representations for blockchain activity and examines the relationship between structural properties of transaction networks and observable onchain behavior.
 
-**Academic article:** [Read the paper](LINK)
+**Academic article:** [Read the paper](https://arxiv.org/pdf/2106.01806)
 
 ---
 
