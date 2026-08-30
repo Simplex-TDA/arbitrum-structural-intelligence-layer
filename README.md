@@ -312,7 +312,7 @@ The Arbitrum implementation is the next stage of this research: moving from expe
 
 The theoretical foundations, methodology, and empirical research underlying SIL are documented in the project whitepaper.
 
-**[Read the SIL Whitepaper](docs/SIL_Whitepaper.pdf)**
+**[Read the SIL Whitepaper](https://github.com/Simplex-TDA/arbitrum-structural-intelligence-layer/blob/main/docs/SIL%20-%20White%20Paper.pdf)**
 
 ---
 
